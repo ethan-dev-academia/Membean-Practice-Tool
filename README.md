@@ -1,20 +1,7 @@
 # Membean
 > HOW TO USE
 
-#### MAKE A FORK
-Easiest option: GitHub Pages
-- Create a GitHub repo
-- Push your files (including updated `paste.txt`, see later)
-- Enable GitHub Pages in repo Settings
-- Your site will be live
-
-Even easier: Netlify
-- Drag and drop the folder to netlify.com (or vercel with a fork of this)
-- It deploys automatically
-
-Other setup (local):
-- Your Python server works fine for local use
-- Just run `python3 -m http.server 8000` whenever you need it
+NO NEED TO RUN SERVER NOW, SHOULD ALL WORK IN BROWSER
 
 Copy your words by dragging (keep in this format. as you can see it also gets the definitions).
 <img width="1060" height="476" alt="Screenshot 2026-01-15 at 11 52 30 PM" src="https://github.com/user-attachments/assets/b377298b-0216-454d-9db3-06af72aeee94" />
@@ -22,9 +9,9 @@ Copy your words by dragging (keep in this format. as you can see it also gets th
 When you have all of them, paste it into the `paste.txt` file. make sure its in this format:
 <img width="834" height="594" alt="Screenshot 2026-01-15 at 11 53 13 PM" src="https://github.com/user-attachments/assets/a2f4f226-c7d3-4db4-8738-e0c20a0f1314" />
 
-You should be good to go.
+You should be good to go. Click the load txt to begin. It will randomize regardless.
+<img width="935" height="328" alt="Screenshot 2026-01-16 at 12 07 13 AM" src="https://github.com/user-attachments/assets/4807e0ac-94d5-4c5b-968f-c97f49715d0a" />
 
-Deploy it on localhost web or use a vercel etc.
 
 ### I didn't really spend too much time with this, so functionality is limited.
 Feel free to make a PR with updates or changes that could make it more useful.
