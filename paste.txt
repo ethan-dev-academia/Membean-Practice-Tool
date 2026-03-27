@@ -1,3 +1,6 @@
+abdicate
+abdicate: If someone abdicates, they give up their responsibility for something, such as a king's transfer of power when he gives up his throne.
+
 abrasive
 abrasive: Someone who has an abrasive manner is unkind and rude, wearing away at you in an irritating fashion.
 
@@ -10,14 +13,23 @@ accentuate: To accentuate something is to emphasize it or make it more noticeabl
 accolade
 accolade: When you give another an accolade, you show them great praise because you highly approve of or respect something that they have done.
 
+accost
+accost: You accost a stranger when you move towards them and speak in an unpleasant or threatening way.
+
 acme
 acme: The acme of something is its highest point of achievement or excellence.
+
+acrid
+acrid: An acrid smell or taste is strong, unpleasant, and stings your nose or throat.
 
 acuity
 acuity: Acuity is sharpness or clearness of vision, hearing, or thought.
 
 adage
 adage: An adage is an inherited saying or phrase that has been historically used to express a common experience.
+
+addendum
+addendum: An addendum is an additional section added to the end of a book, document, or speech that gives more information.
 
 adept
 adept: When you are adept at something, you are very good, skillful, or talented at it.
@@ -54,6 +66,9 @@ alleviate: If you alleviate pain or suffering, you make it less intense or sever
 
 aloof
 aloof: When you act in an aloof fashion towards others, you purposely do not participate in activities with them; instead, you remain distant and detached.
+
+amalgamate
+amalgamate: When two or more things, such as organizations, amalgamate, they combine to become one large thing.
 
 amass
 amass: When you amass things, you gather them together or accumulate them.
@@ -115,6 +130,9 @@ appraisal: When you give an appraisal, you evaluate a person or assess the value
 arbiter
 arbiter: An arbiter acts as a go-between who can settle an argument or provide advice in a dispute.
 
+arcane
+arcane: Something that is arcane is mysterious and secret, known and understood by only a few people.
+
 archaic
 archaic: Something that is archaic is out of date or not currently used any more because it is no longer considered useful or efficient.
 
@@ -141,6 +159,9 @@ avarice: Avarice is the extremely strong desire to have a lot of money and posse
 
 aversion
 aversion: An aversion to something is a strong dislike for or forceful opposition to it.
+
+awry
+awry: If something goes awry, it does not happen in the way that was planned.
 
 banter
 banter: Banter is friendly conversation during which people make friendly jokes and laugh at—and with—one another.
@@ -205,6 +226,9 @@ catalyst: A catalyst is an agent that enacts change, such as speeding up a chemi
 cavalier
 cavalier: A cavalier person does not seem to care about rules, principles, or other people's feelings, no matter how dire or serious a situation may be.
 
+cede
+cede: Someone cedes land or power to someone else by giving it to them, often because of political or military pressure.
+
 censure
 censure: Censure is written or verbal disapproval and harsh criticism of something that someone has done.
 
@@ -231,6 +255,9 @@ circumvent: If you circumvent something, such as a rule or restriction, you try 
 
 clarion
 clarion: A clarion call is a stirring, emotional, and strong appeal to people to take action on something.
+
+clemency
+clemency: If someone is granted clemency, they are punished less severely than they could have been—they have been shown mercy.
 
 clique
 clique: A clique is a group of people that spends a lot of time together and tends to be unfriendly towards people who are not part of the group.
@@ -475,6 +502,9 @@ dissuade: When you dissuade someone, you discourage or prevent them from doing s
 distraught
 distraught: If you are distraught about a situation, you are very upset or worried about it.
 
+diurnal
+diurnal: Something that is diurnal happens on a daily basis.
+
 docile
 docile: An animal or person that is docile is not aggressive; rather, they are well-behaved, quiet, and easy to control.
 
@@ -489,6 +519,9 @@ duplicity: If you accuse someone of duplicity, you think that they are dishonest
 
 dwindle
 dwindle: When an amount of something dwindles, it becomes less and less over time.
+
+ecumenical
+ecumenical: Ecumenical activities and ideas encourage different religions or congregations to work and worship together in order to unite them in friendship.
 
 edict
 edict: An edict is an official order or command given by a government or someone in authority.
@@ -522,6 +555,9 @@ empathy: Empathy is the ability to understand how people feel because you can im
 
 emulate
 emulate: If you emulate someone, you try to behave the same way they do because you admire them a great deal.
+
+engender
+engender: If something engenders a particular feeling or attitude, it causes that condition.
 
 ensue
 ensue: When something ensues, it happens after or as a result of another event.
@@ -583,11 +619,17 @@ facade: A facade is a false outward appearance or way of behaving that hides wha
 facet
 facet: A facet of something is a side, feature, or aspect of it.
 
+facile
+facile: If you criticize someone's arguments as being facile, you consider their ideas simplistic and not well thought through.
+
 fallacy
 fallacy: A fallacy is an idea or belief that is false.
 
 fathom
 fathom: If you fathom something complicated or mysterious, you are able to understand it.
+
+felicity
+felicity: If you are experiencing felicity about something, you are very happy about it.
 
 fiasco
 fiasco: If an event becomes a fiasco, it is a complete and embarrassing failure.
@@ -597,6 +639,9 @@ fiduciary: A fiduciary relationship arises when one individual has the trust and
 
 figurative
 figurative: If you use words in a figurative way, they have an abstract or symbolic meaning beyond their literal interpretation.
+
+filial
+filial: The adjective filial is used to describe relationships or feelings that exist between children and their parents.
 
 fissure
 fissure: A fissure is a narrow and long crack or opening, usually in a rock face.
@@ -736,11 +781,17 @@ impromptu: An impromptu speech is unplanned or spontaneous—it has not been pra
 imprudent
 imprudent: When you act in an imprudent fashion, you do something that is unwise, is lacking in good judgment, or has no forethought.
 
+impute
+impute: If you impute something, such as blame or a crime, to somebody, you say (usually unfairly) that that person is responsible for it.
+
 inadvertent
 inadvertent: An inadvertent action is not done intentionally; rather, it is an accident that happens because someone is not being attentive to their surroundings.
 
 inalienable
 inalienable: An inalienable right is a privilege that cannot be taken away.
+
+incendiary
+incendiary: An incendiary device causes objects to catch on fire; incendiary comments can cause riots to flare up.
 
 inception
 inception: An inception of something is its beginning or start.
@@ -771,6 +822,9 @@ incorrigible: Someone who is incorrigible has bad habits or does bad things and 
 
 incumbent
 incumbent: If it is incumbent upon you to do something, it is your duty or responsibility to do it.
+
+incursion
+incursion: An incursion is an unpleasant intrusion, such as a sudden hostile attack or a land being flooded.
 
 indelible
 indelible: If someone leaves an indelible impression on you, it will not be forgotten; an indelible mark is permanent or impossible to erase or remove.
@@ -817,6 +871,9 @@ infirmity: A patient who is plagued by infirmity is weak in body or ill in healt
 inflammable
 inflammable: An inflammable substance or person's temper is easily set on fire.
 
+inflection
+inflection: An inflection is a change or variation, such as in a person's voice or in the form a noun or verb takes.
+
 infringe
 infringe: To infringe on another person's rights is to violate or intrude upon those rights.
 
@@ -825,6 +882,9 @@ infusion: An infusion is the introduction or pouring of one thing into another�
 
 ingrate
 ingrate: If you describe someone as an ingrate, you are criticizing them because they do not express thanks to someone who has helped them—they are ungrateful.
+
+inimical
+inimical: If someone is inimical, they are unfriendly and will likely cause you harm.
 
 iniquity
 iniquity: Iniquity is an immoral act, wickedness, or evil.
@@ -835,11 +895,17 @@ injunction: An injunction is a court order that prevents someone from doing some
 innate
 innate: An innate quality of someone is present since birth or is a quality of something that is essential to it.
 
+innocuous
+innocuous: Something innocuous is not likely to offend or harm anyone.
+
 inopportune
 inopportune: When something happens at an inopportune time it is inconvenient or not suitable.
 
 inquisitive
 inquisitive: If you are inquisitive, you are eager to learn and highly curious—sometimes too much so.
+
+inscrutable
+inscrutable: Something inscrutable is very hard to figure out, discover, or understand what it is all about.
 
 insidious
 insidious: Something that is insidious is dangerous because it seems harmless or not important; nevertheless, over time it gradually develops the capacity to cause harm and damage.
@@ -850,6 +916,9 @@ insular: If someone is insular, they are either unwilling to meet anyone outside
 insurrection
 insurrection: An insurrection is a rebellion or open uprising against an established form of government.
 
+intelligentsia
+intelligentsia: The intelligentsia of a society are those individuals who are the most highly educated.
+
 interject
 interject: To interject is to insert a comment during a conversation that interrupts its flow.
 
@@ -858,6 +927,9 @@ interminable: Something that is interminable continues for a very long time in a
 
 intermittent
 intermittent: Something that happens on an intermittent basis happens in irregular intervals, stopping and starting at unpredictable times.
+
+intersperse
+intersperse: When you intersperse things, you distribute or scatter them among other things, sometimes at different intervals.
 
 intertwine
 intertwine: When you intertwine two things, you twist them together and thereby interconnect them.
@@ -897,6 +969,9 @@ jovial: Someone who is jovial is in a good humor, lighthearted, and jolly.
 
 labyrinthine
 labyrinthine: If you describe a situation or process as labyrinthine, you mean that it is very complicated, involved, and difficult to understand.
+
+languid
+languid: A languid person is slow, relaxed, and shows little energy or interest in doing anything.
 
 lethargic
 lethargic: If you are lethargic, you are tired, lack energy, and are unwilling to exert effort.
@@ -940,6 +1015,9 @@ mandate: A mandate is an official order or command issued by a government or oth
 matriarch
 matriarch: A matriarch is an older and powerful woman who controls a family, community, or other social group.
 
+maxim
+maxim: A maxim is a recognized rule of conduct or a general statement of a truth or principle.
+
 meander
 meander: When you meander, you either wander about with no particular goal or follow a path that twists and turns a great deal.
 
@@ -970,6 +1048,9 @@ minuscule: Something minuscule is extremely small in size or amount.
 misgiving
 misgiving: A misgiving is a doubt or uncertainty that you have about something, usually something that you are about to do.
 
+mollify
+mollify: If you mollify someone, you say or do something to make that person feel less angry or upset.
+
 momentous
 momentous: A momentous occurrence is very important, significant, or vital in some way.
 
@@ -990,6 +1071,9 @@ nomenclature: Nomenclature is a specialized form of vocabulary that classifies o
 
 nominal
 nominal: Nominal can refer to someone who is in charge in name only, or it can refer to a very small amount of something; both are related by their relative insignificance.
+
+nonchalant
+nonchalant: Someone who is nonchalant is very relaxed and appears not to be worried about anything.
 
 noncommittal
 noncommittal: If you are being noncommittal on an issue, you are not revealing what your opinion is and are being reserved on purpose.
@@ -1035,6 +1119,9 @@ outlay: An outlay is how much money is spent on something.
 
 pallid
 pallid: If someone is pallid, they look very pale in an unattractive and unhealthy way.
+
+palpable
+palpable: If a mood or feeling is palpable, it is so strong and intense that it is easily noticed and is almost able to be physically felt.
 
 paltry
 paltry: Something that is paltry is practically worthless or insignificant.
@@ -1135,14 +1222,23 @@ pivotal: Something that is pivotal is more important than anything else in a sit
 plagiarism
 plagiarism: Plagiarism is the copying of another person's work, ideas, or words and pretending that you created or thought of them.
 
+plummet
+plummet: If something plummets, it falls down from a high position very quickly; for example, a piano can plummet from a window, and a stock value can plummet during a market crash.
+
 plunder
 plunder: When you plunder, you forcefully take or rob others of their possessions, usually during times of war, natural disaster, or other unrest.
 
 poignant
 poignant: A poignant experience affects your feelings greatly in a painful or deeply emotional way, often causing sadness or pity.
 
+polarization
+polarization: Polarization between two groups is a division or separation caused by a difference in opinion or conflicting views.
+
 pompous
 pompous: If you are pompous, you think that you are better than other people; therefore, you tend to show off and be highly egocentric.
+
+ponderous
+ponderous: Ponderous writing or speech is boring, highly serious, and seems very long and wordy; it definitely lacks both grace and style.
 
 posthumous
 posthumous: A posthumous award, often given to an author, is given only after the recipient has already died.
@@ -1174,6 +1270,9 @@ predispose: If someone is predisposed to something, they are made favorable or i
 prerogative
 prerogative: Your prerogative is your right or privilege to do something.
 
+presumptuous
+presumptuous: When you are presumptuous, you act improperly, rudely, or without respect, especially while attempting to do something that is not socially acceptable or that you are not qualified to do.
+
 pretentious
 pretentious: If you are pretentious, you think you are really great in some way and let everyone know about it, despite the fact that it's not the case at all.
 
@@ -1200,6 +1299,9 @@ prone: If you are prone to doing something, you are likely or inclined to do it.
 
 propensity
 propensity: A propensity is a natural tendency towards a particular behavior.
+
+propitious
+propitious: Something that is propitious shows favorable conditions.
 
 proponent
 proponent: A proponent is a supporter or backer of something, such as a cause or other endeavor.
@@ -1234,6 +1336,9 @@ punctuate: If an activity is punctuated by something, it is interrupted or empha
 pungent
 pungent: Something pungent, such as a spice, aroma, or speech, is sharp and penetrating.
 
+punitive
+punitive: A punitive action is intended to punish someone.
+
 quell
 quell: To quell something is to stamp out, quiet, or overcome it.
 
@@ -1245,6 +1350,9 @@ radical: A radical solution to a problem goes to the heart or root of it; a radi
 
 ramble
 ramble: To ramble is to wander about leisurely, with no specific destination in mind; to ramble while speaking is to talk with no particular aim or point intended.
+
+rambunctious
+rambunctious: Rambunctious conduct is wild, unruly, very active, and sometimes hard to control.
 
 ramification
 ramification: A ramification from an action is a result or consequence of it—and is often unanticipated.
@@ -1264,6 +1372,9 @@ raucous: A raucous sound is unpleasantly loud, harsh, and noisy.
 rebuke
 rebuke: When you rebuke someone, you harshly scold or criticize them for something they've done.
 
+recant
+recant: If you recant, you publicly announce that your once firmly held beliefs or statements were wrong and that you no longer agree with them.
+
 reciprocate
 reciprocate: If you reciprocate, you give something to someone because they have given something similar to you.
 
@@ -1272,6 +1383,9 @@ recluse: A recluse is someone who chooses to live alone and deliberately avoids 
 
 recompense
 recompense: When you offer recompense to someone, you give them something, usually money, for the trouble or loss that you have caused them or as payment for their help.
+
+recoup
+recoup: To recoup is to get back an amount of money you have lost or spent.
 
 recrimination
 recrimination: A recrimination is a retaliatory accusation you make against someone who has accused you of something first.
@@ -1339,6 +1453,9 @@ reprisal: A reprisal is something violent or harmful that you do to punish someo
 repute
 repute: A person's repute is what others think of them; repute can also refer to someone's standing in society.
 
+requiem
+requiem: A requiem is a piece of funeral music written for the dead.
+
 residual
 residual: Something that is residual is the part that still stays or remains after the main part is taken away.
 
@@ -1384,6 +1501,9 @@ salient: The salient qualities of an issue or feature are those that are most im
 sanctity
 sanctity: The sanctity of something is its holiness or sacred quality.
 
+sanguine
+sanguine: If you are sanguine about a situation, especially a difficult one, you are confident and cheerful that everything will work out the way you want it to.
+
 scaffolding
 scaffolding: The scaffolding on a building is that framework or series of platforms used when fixing or building it.
 
@@ -1402,11 +1522,17 @@ scuttle: When something is scuttled, it is done away with or discarded.
 sedate
 sedate: If you are sedate, you are calm, unhurried, and unlikely to be disturbed by anything.
 
+semblance
+semblance: A semblance is an outward appearance of what is wanted or expected but is not exactly as hoped for.
+
 servile
 servile: If you say that someone is servile, you don't respect them because they are too obedient, too agreeable, and too willing to do anything for another person.
 
 skirmish
 skirmish: A skirmish is a minor battle between small army units; it can also be a fight or argument between individuals.
+
+sojourn
+sojourn: To sojourn is to stay at a place that is not your home for a short amount of time.
 
 soliloquy
 soliloquy: A soliloquy is the act of speaking by a single person, usually an actor in the theater.
@@ -1425,6 +1551,9 @@ staid: If you are staid, you are set in your ways; consequently, you are settled
 
 stalwart
 stalwart: If you are stalwart, you are dependable, sturdy, and firm in what you do or promise.
+
+stasis
+stasis: Stasis is a state of little change over a long period of time or a condition of inactivity caused by an equal balance of opposing forces.
 
 steadfast
 steadfast: If you are steadfast, you have a firm belief in your actions or opinions and refuse to give up or change them because you are certain that you are doing the right thing.
@@ -1450,11 +1579,17 @@ stringent: Stringent measures or rules are strict, severe, and controlled in a v
 strut
 strut: When you strut, you move as though you own the world by walking in a confident and showy fashion.
 
+stupor
+stupor: Stupor is a state in which someone's mind and senses are dulled; consequently, they are unable to think clearly or act normally.
+
 suave
 suave: If you are suave, you are charming and very polite; you are also agreeable, perhaps not always sincerely, to all you meet.
 
 subjective
 subjective: A subjective opinion is not based upon facts or hard evidence; rather, it rests upon someone's personal feelings or beliefs about a matter or concern.
+
+sublime
+sublime: Something that is sublime is so strikingly beautiful that it seems not of this world; therefore, it affects the emotions deeply.
 
 subside
 subside: When something subsides, it begins to go away, lessen, or decrease in some way.
@@ -1488,6 +1623,9 @@ sustenance: Sustenance is that which supports life; it usually refers to food or
 
 symposium
 symposium: A symposium is a formal meeting at which several experts or specialists deliver short talks or discuss a particular subject.
+
+tacit
+tacit: A tacit agreement between two people is understood without having to use words to express it.
 
 tactile
 tactile: Something that is tactile can be physically touched.
@@ -1528,6 +1666,9 @@ tether: A tether is a restraint—such as a leash, rope, or chain—that holds s
 thwart
 thwart: When you thwart someone's ambitions, you obstruct or stop them from happening.
 
+timorous
+timorous: To be timorous is to be fearful.
+
 topical
 topical: The adjective topical describes something that is related to a subject of current interest.
 
@@ -1558,6 +1699,9 @@ tribulation: Severe problems, suffering, or difficulties experienced in a partic
 trite
 trite: A trite remark or idea is so overused that it is no longer interesting or novel.
 
+truncate
+truncate: If you truncate something, you make it shorter or quicker by removing or cutting off part of it.
+
 tumultuous
 tumultuous: A tumultuous event or period of time is filled with great excitement, confusion, or violence; a tumultuous reaction to something is likewise very loud and noisy because people are happy and excited.
 
@@ -1587,6 +1731,9 @@ undulate: Something that undulates moves or is shaped like waves with gentle cur
 
 unfeasible
 unfeasible: Something unfeasible cannot be made or achieved.
+
+unfounded
+unfounded: An unfounded claim is not based upon evidence; instead, it is unproven or groundless.
 
 unilateral
 unilateral: A unilateral decision is entirely one-sided, involving only one facet of an issue or one country among many.
@@ -1675,6 +1822,15 @@ vicarious: A vicarious pleasure or feeling is experienced by watching or reading
 vigilant
 vigilant: When you are vigilant, you are keenly watchful, careful, or attentive to a task or situation.
 
+vilify
+vilify: If you vilify people, you write or say bad things about them in an attempt to make them unpopular.
+
+vindictive
+vindictive: If you are vindictive, you want to take revenge upon someone who has done something bad to you.
+
+virtuoso
+virtuoso: A virtuoso is someone who is very skillful at something, especially playing a musical instrument.
+
 virulent
 virulent: A virulent disease is very dangerous and spreads very quickly.
 
@@ -1687,6 +1843,9 @@ volatile: Something that is volatile can change easily and vary widely.
 volition
 volition: If you do something of your own volition, you choose to do it because you want to—not because you are forced to.
 
+voluminous
+voluminous: Something that is voluminous is long, large, or vast in size.
+
 voracious
 voracious: A voracious person has a strong desire to want a lot of something, especially food.
 
@@ -1695,6 +1854,9 @@ vortex: A vortex is a force, such as a tornado or whirlpool, that draws things t
 
 wane
 wane: If something—such as power, influence, or feeling—wanes, it gradually becomes weaker or less important, often so much so that it eventually disappears.
+
+wanton
+wanton: A wanton action deliberately harms someone or damages something for no apparent or good reason.
 
 wastrel
 wastrel: A wastrel is a lazy person who wastes time and money.
@@ -1713,6 +1875,9 @@ whimsical: A whimsical idea or person is slightly strange, unusual, and amusing 
 
 wile
 wile: Wiles are clever tricks or cunning schemes that are used to persuade someone to do what you want.
+
+writ
+writ: A writ is an official document that orders a person to do something.
 
 zealous
 zealous: Someone who is zealous spends a lot of time, energy, and effort to support something—notably that of a political or religious nature—because they believe in it very strongly.
